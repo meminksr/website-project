@@ -1,0 +1,113 @@
+#kutu1{
+
+   height: 100px;
+   width: 970px;
+   margin-right: auto;
+   margin-left: auto;
+
+   
+}
+
+
+
+#kucuk1{
+
+    width: fit-content;
+    float:right ;
+    height: 50px;
+    width: 303px;
+    margin: 10px;
+    font-size: large;
+    
+
+
+}
+
+#kucuk2{
+      
+    width: fit-content;
+    float: right;
+    height: 50px;
+    width: 303px;
+    margin: 10px;
+    font-size: large;
+    
+}
+
+#kucuk3{
+
+    width: fit-content;
+    float: left;
+    height: 50px;
+    width: 303px;
+    margin: 10px;
+    font-size: large;
+}
+
+#resım{
+
+    height: 300px;
+    margin-top: 70px;
+    margin-left: 500px;
+    border-radius: 50%;
+    
+}
+#anarer{
+
+    text-align: center;
+    height: 355px;
+
+}
+
+#hakkım{
+   
+    height: 1053px;
+    
+
+}
+
+
+body{
+
+    background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 500% 500%;
+	animation: animeBG 15s ease infinite;
+	animation-direction: alternate;
+    text-decoration: none;
+}
+
+
+#bruh{
+ 
+    margin-left: 200px;
+    margin-top: 250px;
+}
+
+#renk{
+    font-weight: bold;
+    color: white;
+    font-size: x-large;
+    
+}
+
+    
+#kol{
+
+    height: 150px;
+    margin-left: 450px;
+    border-radius: 100%;
+    margin-bottom: 50px;
+}
+  
+
+#usame{
+    height: 150px;
+    border-radius: 100%;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+h3{
+    color: black;
+    text-decoration: none;
+}
